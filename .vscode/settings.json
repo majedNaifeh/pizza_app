@@ -1,0 +1,6 @@
+{
+  "yaml.schemas": {
+    "file:///Users/Developer/.vscode/extensions/atlassian.atlascode-3.0.3/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml",
+    "https://json.schemastore.org/pubspec.json": "file:///Users/Developer/Desktop/Majed/Practice/pizza_app/packages/user_repository/pubspec.yaml"
+  }
+}
