@@ -15,9 +15,13 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.6
+  font_awesome_flutter: ^10.7.0
   rxdart: 0.28.0
   user_repository:
     path: packages/user_repository
+  pizza_repository:
+    path: packages/pizza_repository
+
 
 dev_dependencies:
   flutter_test:
